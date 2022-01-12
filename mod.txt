@@ -1,0 +1,41 @@
+{
+	
+	"name": "Smart AI customize",
+	
+	"description": "Give Bots' names different color so you can regconize them. Also increase the damage of some Bots' weapons.",
+	
+	"author": "LR_Daring",
+	
+	"contact": "xiaomojiang017@outlook.com",
+	
+
+	"version": 2.0,
+	
+	"priority": -2,
+	
+	"hooks":
+	[
+		{
+
+		"hook_id": "lib/units/player_team/logics/teamailogicidle",
+			
+		"script_path": "cah.lua"
+
+		},
+		
+		{
+			"hook_id" : "lib/tweak_data/charactertweakdata",
+			"script_path" : "dede.lua"
+		},
+		
+	    {
+		
+		"hook_id" : "lib/managers/criminalsmanager",
+			
+		"script_path" : "colorfulname.lua"
+		
+		}
+		
+	]
+
+}
