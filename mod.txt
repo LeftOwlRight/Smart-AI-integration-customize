@@ -36,6 +36,15 @@
 		
 		}
 		
-	]
+	],
+	
+	"updates" : [
+       {
+        "identifier" : "pd2_AI_integration_customize",
+        "host": {
+            "meta": "https://raw.githubusercontent.com/LeftOwlRight/Smart-AI-integration-customize/main/meta.json"
+                }
+        }
+    ]
 
 }
