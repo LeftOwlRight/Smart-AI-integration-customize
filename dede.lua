@@ -16,8 +16,7 @@ end
 
 
 
-local filede11 = io.open(BLTModManager.Constants.mods_directory .. "/Smart AI customize" .. "/stringget.lua", "r")
-
+local filede11 = io.open(ModPath .. "stringget.lua", "r")
 if filede11 then
     local datade22 = filede11:read("*all")
     filede11:close()
