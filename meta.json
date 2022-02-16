@@ -1,8 +1,8 @@
 [
     {
         "ident" : "pd2_AI_integration_customize",
-        "version" : 2.0,
-        "patchnotes_url" : "https://github.com/LeftOwlRight/Smart-AI-integration-customize",
-        "download_url" : "https://github.com/LeftOwlRight/Smart-AI-integration-customize/archive/refs/heads/main.zip"
+        "version" : 2.1,
+        "patchnotes_url" : "https://gitlab.com/LeftOwlRight/Smart-AI-integration-customize",
+        "download_url" : "https://gitlab.com/LeftOwlRight/Smart-AI-integration-customize/-/archive/main/Smart-AI-integration-customize-main.zip"
     }
 ]

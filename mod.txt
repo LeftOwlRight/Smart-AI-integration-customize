@@ -9,7 +9,7 @@
 	"contact": "xiaomojiang017@outlook.com",
 	
 
-	"version": 2.0,
+	"version": 2.1,
 	
 	"priority": -2,
 	
@@ -42,7 +42,7 @@
        {
         "identifier" : "pd2_AI_integration_customize",
         "host": {
-            "meta": "https://raw.githubusercontent.com/LeftOwlRight/Smart-AI-integration-customize/main/meta.json"
+            "meta": "https://gitlab.com/LeftOwlRight/Smart-AI-integration-customize/-/raw/main/meta.json"
                 }
         }
     ]
